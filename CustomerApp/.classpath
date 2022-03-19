@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/classmate-1.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/hibernate-validator-6.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/hibernate-validator-annotation-processor-6.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/hibernate-validator-cdi-6.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/jakarta.el-3.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/jakarta.persistence-api-2.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/jakarta.validation-api-2.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/javax.servlet.jsp.jstl-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/javax.servlet.jsp.jstl-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/jboss-logging-3.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/paranamer-2.8.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-aop-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-aop-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-aop-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-aspects-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-aspects-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-aspects-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-beans-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-beans-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-beans-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-context-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-context-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-context-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-context-indexer-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-context-indexer-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-context-indexer-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-context-support-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-context-support-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-context-support-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-core-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-core-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-core-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-expression-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-expression-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-expression-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-instrument-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-instrument-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-instrument-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-jcl-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-jcl-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-jcl-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-jdbc-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-jdbc-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-jdbc-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-jms-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-jms-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-jms-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-messaging-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-messaging-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-messaging-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-orm-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-orm-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-orm-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-oxm-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-oxm-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-oxm-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-test-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-test-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-test-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-tx-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-tx-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-tx-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-web-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-web-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-web-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-webflux-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-webflux-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-webflux-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-webmvc-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-webmvc-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-webmvc-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-websocket-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-websocket-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/greatlearning/installer/lib/spring-websocket-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/apache-tomcat-9.0.55"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
